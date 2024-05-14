@@ -96,16 +96,16 @@ def abrir_janela_importar():
     janela_importar.mainloop()
 
 audio_paths = {
-    1: "assets/sons/tonalidade_1.wav",
-    2: "assets/sons/tonalidade_2.wav",
-    3: "assets/sons/tonalidade_3.wav",
-    4: "assets/sons/tonalidade_4.wav",
-    5: "assets/sons/tonalidade_5.wav",
-    6: "assets/sons/tonalidade_6.wav",
-    7: "assets/sons/tonalidade_7.wav",
-    8: "assets/sons/tonalidade_8.wav",
-    9: "assets/sons/tonalidade_9.wav",
-    10: "assets/sons/tonalidade_10.wav"
+    1: "tonalidade_1.wav",
+    2: "tonalidade_2.wav",
+    3: "tonalidade_3.wav",
+    4: "tonalidade_4.wav",
+    5: "tonalidade_5.wav",
+    6: "tonalidade_6.wav",
+    7: "tonalidade_7.wav",
+    8: "tonalidade_8.wav",
+    9: "tonalidade_9.wav",
+    10: "tonalidade_10.wav"
 }
 
 tons_selecionados = []
